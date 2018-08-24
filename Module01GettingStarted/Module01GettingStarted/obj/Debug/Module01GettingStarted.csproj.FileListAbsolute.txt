@@ -1,0 +1,7 @@
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\bin\Debug\Module01GettingStarted.exe.config
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\bin\Debug\Module01GettingStarted.exe
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\bin\Debug\Module01GettingStarted.pdb
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\obj\Debug\Module01GettingStarted.csprojAssemblyReference.cache
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\obj\Debug\Module01GettingStarted.csproj.CoreCompileInputs.cache
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\obj\Debug\Module01GettingStarted.exe
+D:\BUTLERCCY2S1\VISTUD-AC#\Module01GettingStarted\Module01GettingStarted\obj\Debug\Module01GettingStarted.pdb
